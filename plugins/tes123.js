@@ -46,7 +46,7 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 await conn.reply(m.chat, info, m, { quoted: fgif, contextInfo: { externalAdReply: { showAdAttribution: true, title: botdate, body: bottime, sourceUrl: snh, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
 
 }
-handler.customPrefix = /^(tes|tess|test)$/i
+handler.customPrefix = /^(tes|tess|test|bot|Bot|hallo|tod)$/i
 handler.command = new RegExp
 
 export default handler
