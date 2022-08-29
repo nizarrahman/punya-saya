@@ -11,9 +11,9 @@ _*Dana/ovo:*_ ${dana}
 _*Paypal:*_ ${paypal}
 _*Saweria:*_ ${saweria}
 _*Trakteer:*_ ${trakteer}
-Setelah Melakukan Donasi Kirim Bukti Pembayaran Ke Owner Tante💦
+Setelah Melakukan Donasi Kirim Bukti Pembayaran Ke Owner 
 `
-conn.sendHydrated(m.chat, str, wm, pepe, 'https://github.com/MendingTuru/', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pepe, 'https://instagram.com/nizarrrahman.f_', 'INSTAGRAM', null, null, [
 ['𝙼𝙴𝙽𝚄', '/menu']
 ], m)
 
