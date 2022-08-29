@@ -53,7 +53,7 @@ Hai, *%name!*
 *Fitur:* %totalfeatures command
 
 %readmore
-*Support me:* *https://instagram.com/kokopangeran_*
+*Support me:* *https://instagram.com/nizarrrahman.f_*
 *Note:*
 _Jika Respon Tidak Muncul Kemungkinan Terjadi Error_
 `.trimStart(),
