@@ -9,14 +9,6 @@ let handler = async (m) => {
     let user = global.db.data.users[who]
 let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 
-*👤Adiwajshing:*
-https://github.com/adiwajshing
-
-*👤Nurutomo:*
-https://github.com/Nurutomo
-
-*👤Koko Pangeran:*
-https://github.com/MendingTuru
 `
 conn.reply(m.chat, tqto, m, { contextInfo: { externalAdReply: {
             title: `${htjava} ${wm}`,
